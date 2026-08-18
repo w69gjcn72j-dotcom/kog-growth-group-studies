@@ -1,0 +1,30 @@
+{
+  "repo": "kog-growth-group-studies",
+  "prefix": "gg",
+  "base_font": "18px",
+  "url": "https://w69gjcn72j-dotcom.github.io/kog-growth-group-studies/",
+  "en": {
+    "title": "KOG Growth Groups",
+    "short": "Growth Groups",
+    "appname": "Growth Groups",
+    "unit": "study",
+    "units": "studies",
+    "grouplabel": "Series",
+    "tagline": "Bible studies for our adult growth groups — working through books of the Bible together, week by week.",
+    "description": "Adult growth group Bible studies at St Paul's Anglican Church Kogarah.",
+    "manifest": "kog-growth-group.webmanifest",
+    "index": "index.html"
+  },
+  "cn": {
+    "title": "成人成长小组查经",
+    "short": "成人查经",
+    "appname": "成人查经",
+    "unit": "查经",
+    "units": "查经",
+    "grouplabel": "系列",
+    "tagline": "为成人成长小组预备的查经——逐卷研读圣经，一同祷告，彼此扶持。",
+    "description": "高嘉华圣保罗圣公会成人成长小组查经材料。",
+    "manifest": "kog-growth-group-cn.webmanifest",
+    "index": "index-cn.html"
+  }
+}

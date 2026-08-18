@@ -1,0 +1,32 @@
+{
+  "name": "KOG Growth Groups — St Paul's Anglican Kogarah",
+  "short_name": "Growth Groups",
+  "description": "Adult growth group Bible studies at St Paul's Anglican Church Kogarah.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1a2b",
+  "theme_color": "#0e1a2b",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "gg-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "gg-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "gg-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
