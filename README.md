@@ -1,3 +1,5 @@
+> **Moved.** These studies now live on Word & Prayer, at https://word.kogarah.church/studies/home-groups/ (中文: https://word.kogarah.church/bible-studies-cn.html?c=gg). Every page here only forwards to its new address. New studies are published from the `sermon-library` repository (`add-study.py --rebuild`), not from this one.
+
 # KOG Growth Groups · 成人成长小组查经
 
 Bible studies for our adult growth groups — working through books of the Bible together, week by week.
